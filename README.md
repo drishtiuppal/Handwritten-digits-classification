@@ -9,6 +9,7 @@ The dataset is divided into training and testing sets. The training set contains
 
 
 Normalization is performed to scale the pixel values between 0 and 1.
+
 The images are flattened into 1D arrays by reshaping them to 784 elements.
 
 A confusion matrix is generated to evaluate the performance of the model on the testing set.
