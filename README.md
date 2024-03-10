@@ -22,7 +22,8 @@ The model achieves an accuracy of 98% on the testing set.
 ![image](https://github.com/drishtiuppal/Handwritten-digits-classification/assets/90601730/4103fdd6-9e52-4ca8-ba04-74f9806f7cec)
 ![image](https://github.com/drishtiuppal/Handwritten-digits-classification/assets/90601730/258b2f5c-8f46-4414-ae22-fda8946abf05)
 
-Result:
+RESULT:
+
 ![image](https://github.com/drishtiuppal/Handwritten-digits-classification/assets/90601730/cb1267b6-b424-4951-8881-7cc42f0c7469)
 
 
