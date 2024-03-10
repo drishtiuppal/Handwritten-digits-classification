@@ -3,7 +3,7 @@
 
 This repository contains a handwritten digits classification project using a neural network model. The dataset used is the MNIST dataset, which consists of 28x28 pixel grayscale images of handwritten digits from 0 to 9.
 
-The dataset is divided into training and testing sets using the mnist.load_data() function from TensorFlow's Keras module. The training set contains 60,000 samples, and the testing set contains 10,000 samples.
+The dataset is divided into training and testing sets. The training set contains 60,000 samples, and the testing set contains 10,000 samples.
 
 ![image](https://github.com/drishtiuppal/Handwritten-digits-classification/assets/90601730/1bac4b6c-d755-4754-a68f-9ab4cdc4aa75)
 
